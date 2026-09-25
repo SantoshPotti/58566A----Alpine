@@ -1,2 +1,2 @@
-# 58566A----Alpine
-Public library for VS Code for Vex V5 Robotics
+# 58566A----Afterdark (library name: Alpine)
+Public library for VS Code for RECF Achieve Robotics
